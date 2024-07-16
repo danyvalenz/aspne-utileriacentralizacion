@@ -1,0 +1,11 @@
+/Users/danielvalenzuela/Documents/csharpprojects/bkd-utileria-centralizada/bkd-utileria-centralizada/bin/Release/net6.0/publish/bkd-utileria-centralizada
+/Users/danielvalenzuela/Documents/csharpprojects/bkd-utileria-centralizada/bkd-utileria-centralizada/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/danielvalenzuela/Documents/csharpprojects/bkd-utileria-centralizada/bkd-utileria-centralizada/bin/Release/net6.0/publish/appsettings.json
+/Users/danielvalenzuela/Documents/csharpprojects/bkd-utileria-centralizada/bkd-utileria-centralizada/bin/Release/net6.0/publish/bkd-utileria-centralizada.dll
+/Users/danielvalenzuela/Documents/csharpprojects/bkd-utileria-centralizada/bkd-utileria-centralizada/bin/Release/net6.0/publish/bkd-utileria-centralizada.deps.json
+/Users/danielvalenzuela/Documents/csharpprojects/bkd-utileria-centralizada/bkd-utileria-centralizada/bin/Release/net6.0/publish/bkd-utileria-centralizada.runtimeconfig.json
+/Users/danielvalenzuela/Documents/csharpprojects/bkd-utileria-centralizada/bkd-utileria-centralizada/bin/Release/net6.0/publish/bkd-utileria-centralizada.pdb
+/Users/danielvalenzuela/Documents/csharpprojects/bkd-utileria-centralizada/bkd-utileria-centralizada/bin/Release/net6.0/publish/Microsoft.OpenApi.dll
+/Users/danielvalenzuela/Documents/csharpprojects/bkd-utileria-centralizada/bkd-utileria-centralizada/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/danielvalenzuela/Documents/csharpprojects/bkd-utileria-centralizada/bkd-utileria-centralizada/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/danielvalenzuela/Documents/csharpprojects/bkd-utileria-centralizada/bkd-utileria-centralizada/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
