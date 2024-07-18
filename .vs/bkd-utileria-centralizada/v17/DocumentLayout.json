@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|c:\\users\\daniel.valenzuela\\documents\\github\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\controllers\\scheduleservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|solutionrelative:bkd-utileria-centralizada\\controllers\\scheduleservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|c:\\users\\daniel.valenzuela\\documents\\github\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\models\\catdistribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|solutionrelative:bkd-utileria-centralizada\\models\\catdistribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|c:\\users\\daniel.valenzuela\\documents\\github\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\models\\catregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|solutionrelative:bkd-utileria-centralizada\\models\\catregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|c:\\users\\daniel.valenzuela\\documents\\github\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\models\\catroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|solutionrelative:bkd-utileria-centralizada\\models\\catroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|c:\\users\\daniel.valenzuela\\documents\\github\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\models\\utileriadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|solutionrelative:bkd-utileria-centralizada\\models\\utileriadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|c:\\users\\daniel.valenzuela\\documents\\github\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\models\\catcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|solutionrelative:bkd-utileria-centralizada\\models\\catcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|c:\\users\\daniel.valenzuela\\documents\\github\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|solutionrelative:bkd-utileria-centralizada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|c:\\users\\daniel.valenzuela\\documents\\github\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\models\\menuutileriacentralizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|solutionrelative:bkd-utileria-centralizada\\models\\menuutileriacentralizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|c:\\users\\daniel.valenzuela\\documents\\github\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|solutionrelative:bkd-utileria-centralizada\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|c:\\users\\daniel.valenzuela\\documents\\github\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|solutionrelative:bkd-utileria-centralizada\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|c:\\users\\daniel.valenzuela\\documents\\github\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|bkd-utileria-centralizada\\bkd-utileria-centralizada.csproj|solutionrelative:bkd-utileria-centralizada\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScheduleServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Controllers\\ScheduleServiceController.cs",
+              "RelativeDocumentMoniker": "bkd-utileria-centralizada\\Controllers\\ScheduleServiceController.cs",
+              "ToolTip": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Controllers\\ScheduleServiceController.cs",
+              "RelativeToolTip": "bkd-utileria-centralizada\\Controllers\\ScheduleServiceController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAewCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:58:12.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatRegion.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Models\\CatRegion.cs",
+              "RelativeDocumentMoniker": "bkd-utileria-centralizada\\Models\\CatRegion.cs",
+              "ToolTip": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Models\\CatRegion.cs",
+              "RelativeToolTip": "bkd-utileria-centralizada\\Models\\CatRegion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:50:56.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatRoute.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Models\\CatRoute.cs",
+              "RelativeDocumentMoniker": "bkd-utileria-centralizada\\Models\\CatRoute.cs",
+              "ToolTip": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Models\\CatRoute.cs",
+              "RelativeToolTip": "bkd-utileria-centralizada\\Models\\CatRoute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:53:09.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatDistribution.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Models\\CatDistribution.cs",
+              "RelativeDocumentMoniker": "bkd-utileria-centralizada\\Models\\CatDistribution.cs",
+              "ToolTip": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Models\\CatDistribution.cs",
+              "RelativeToolTip": "bkd-utileria-centralizada\\Models\\CatDistribution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:50:33.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "utileriadbContext.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Models\\utileriadbContext.cs",
+              "RelativeDocumentMoniker": "bkd-utileria-centralizada\\Models\\utileriadbContext.cs",
+              "ToolTip": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Models\\utileriadbContext.cs",
+              "RelativeToolTip": "bkd-utileria-centralizada\\Models\\utileriadbContext.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAnwLkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:40:24.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatCountry.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Models\\CatCountry.cs",
+              "RelativeDocumentMoniker": "bkd-utileria-centralizada\\Models\\CatCountry.cs",
+              "ToolTip": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Models\\CatCountry.cs",
+              "RelativeToolTip": "bkd-utileria-centralizada\\Models\\CatCountry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:40:59.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Program.cs",
+              "RelativeDocumentMoniker": "bkd-utileria-centralizada\\Program.cs",
+              "ToolTip": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Program.cs",
+              "RelativeToolTip": "bkd-utileria-centralizada\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:30:58.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuUtileriaCentralizacion.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Models\\MenuUtileriaCentralizacion.cs",
+              "RelativeDocumentMoniker": "bkd-utileria-centralizada\\Models\\MenuUtileriaCentralizacion.cs",
+              "ToolTip": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Models\\MenuUtileriaCentralizacion.cs",
+              "RelativeToolTip": "bkd-utileria-centralizada\\Models\\MenuUtileriaCentralizacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:53:37.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\appsettings.json",
+              "RelativeDocumentMoniker": "bkd-utileria-centralizada\\appsettings.json",
+              "ToolTip": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\appsettings.json",
+              "RelativeToolTip": "bkd-utileria-centralizada\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T21:31:02.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "bkd-utileria-centralizada\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\WeatherForecast.cs",
+              "RelativeToolTip": "bkd-utileria-centralizada\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:30:56.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "bkd-utileria-centralizada\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\asp.net\\bkds\\aspne-utileriacentralizacion\\bkd-utileria-centralizada\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "bkd-utileria-centralizada\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:21:40.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

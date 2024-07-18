@@ -1,4 +1,7 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using bkd_utileria_centralizada.Models;
+using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
+var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
@@ -7,6 +10,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddDbContext<utileriadbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("cadenasql")));
+builder.Services.AddControllers().AddJsonOptions(opt => opt.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
