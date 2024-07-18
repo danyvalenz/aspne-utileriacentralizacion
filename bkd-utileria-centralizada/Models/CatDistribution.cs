@@ -16,6 +16,7 @@ namespace bkd_utileria_centralizada.Models
         public string? DistributionName { get; set; }
         public int? IdRegion { get; set; }
 
+        [JsonIgnore]
         public virtual CatRegion? oRegion { get; set; }
         public virtual ICollection<CatRoute> CatRoutes { get; set; }
         [JsonIgnore]

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D31BF0BA-CD4F-412D-AF71-4CD25738322A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="bkd-utileria-centralizada/Models/CatRegion.cs">
+    <Files>
+      <File FileName="bkd-utileria-centralizada/Controllers/ScheduleServiceController.cs" Line="26" Column="76" />
+      <File FileName="bkd-utileria-centralizada/Models/MenuUtileriaCentralizacion.cs" Line="6" Column="52" />
+      <File FileName="bkd-utileria-centralizada/Models/CatCountry.cs" Line="18" Column="41" />
+      <File FileName="bkd-utileria-centralizada/Models/CatDistribution.cs" Line="19" Column="20" />
+      <File FileName="bkd-utileria-centralizada/Models/CatRegion.cs" Line="17" Column="21" />
+      <File FileName="bkd-utileria-centralizada/Models/CatRoute.cs" Line="18" Column="20" />
+      <File FileName="bkd-utileria-centralizada/Program.cs" Line="30" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bkd-utileria-centralizada">
+            <Node name="bkd-utileria-centralizada" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.bkd-utileria-centralizada PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

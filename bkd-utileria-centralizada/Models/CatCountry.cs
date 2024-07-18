@@ -14,7 +14,7 @@ namespace bkd_utileria_centralizada.Models
 
         public int IdCountry { get; set; }
         public string? CountryName { get; set; }
-        [JsonIgnore]
+        
         public virtual ICollection<CatRegion> CatRegions { get; set; }
         [JsonIgnore]
         public virtual ICollection<ScheduleService> ScheduleServices { get; set; }

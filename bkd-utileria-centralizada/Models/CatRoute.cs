@@ -15,6 +15,7 @@ namespace bkd_utileria_centralizada.Models
         public string? RouteName { get; set; }
         public int? IdDistribution { get; set; }
 
+        [JsonIgnore]
         public virtual CatDistribution? oDistribution { get; set; }
         [JsonIgnore]
         public virtual ICollection<ScheduleService> ScheduleServices { get; set; }

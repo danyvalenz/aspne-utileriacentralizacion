@@ -23,10 +23,30 @@ namespace bkd_utileria_centralizada.Controllers
         {
             List<CatCountry> lista = new List<CatCountry>();
             try {
-                lista =  _utileriadbContext.CatCountries.ToList();
-                return StatusCode(StatusCodes.Status200OK, new { mensaje= "OK", response = lista});
+                lista = _utileriadbContext.CatCountries.Include(r => r.CatRegions).ToList();
+                
+                 return StatusCode(StatusCodes.Status200OK, new { mensaje= "OK", response = lista});
             
             }catch(Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, new { mensaje = ex.Message.ToString(), response = lista });
+            }
+        }
+
+
+        [HttpGet]
+        [Route("lista/distribucion/ruta/{idRegion:int}")]
+        public IActionResult GetDistribucionyRuta(int idRegion)
+        {
+            List<CatDistribution> lista = new List<CatDistribution>();
+            try
+            {
+                lista = _utileriadbContext.CatDistributions.Include(r => r.CatRoutes).Where(c => c.IdRegion == idRegion).ToList();
+
+                return StatusCode(StatusCodes.Status200OK, new { mensaje = "OK", response = lista });
+
+            }
+            catch (Exception ex)
             {
                 return StatusCode(StatusCodes.Status500InternalServerError, new { mensaje = ex.Message.ToString(), response = lista });
             }
