@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HDdNf07gaPn22JzZZHvirflFES2FVmVq2sPnnRGrKMfcFOyv40TlEnaOESw2sCD3GEBETRylSDOnxXHbTkWyiA==",
+  "dgSpecHash": "uMnHapFyqbw=",
   "success": true,
   "projectFilePath": "/Users/danielvalenzuela/Documents/GitHub/aspne-utileriacentralizacion/bkd-utileria-centralizada/bkd-utileria-centralizada.csproj",
   "expectedPackageFiles": [
@@ -53,9 +53,9 @@
     "/Users/danielvalenzuela/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512",
     "/Users/danielvalenzuela/.nuget/packages/system.text.encoding.codepages/4.7.0/system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "/Users/danielvalenzuela/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512",
+    "/Users/danielvalenzuela/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
     "/Users/danielvalenzuela/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
-    "/Users/danielvalenzuela/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
-    "/Users/danielvalenzuela/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+    "/Users/danielvalenzuela/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512"
   ],
   "logs": []
 }
